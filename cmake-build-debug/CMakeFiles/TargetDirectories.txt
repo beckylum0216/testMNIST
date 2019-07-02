@@ -1,0 +1,6 @@
+D:/tempML/testMNIST/cmake-build-debug/CMakeFiles/testMNIST.dir
+D:/tempML/testMNIST/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/tempML/testMNIST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/tempML/testMNIST/cmake-build-debug/src/CMakeFiles/src.dir
+D:/tempML/testMNIST/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+D:/tempML/testMNIST/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

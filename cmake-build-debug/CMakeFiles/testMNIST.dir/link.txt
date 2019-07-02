@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.2.6\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\testMNIST.dir/objects.a
+C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\ar.exe cr CMakeFiles\testMNIST.dir/objects.a @CMakeFiles\testMNIST.dir\objects1.rsp
+C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\testMNIST.dir/objects.a -Wl,--no-whole-archive  -o testMNIST.exe -Wl,--out-implib,libtestMNIST.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testMNIST.dir\linklibs.rsp
